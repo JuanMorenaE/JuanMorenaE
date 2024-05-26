@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/067tfqY.jpeg)](https://github.com/JuanMorenaE)
 
-# Hola 👋, me llamo Juan Andrés Morena
+# Hola 👋, Soy Juan Morena
 
 Apasionado por la tecnología con experiencia en diseño y desarrollo de sitios web. Centrado en crear soluciones digitales excepcionales, funcionales y eficientes.
 Disfruto explorando nuevas tendencias y desafíos en el ámbito tecnológico, buscando aprender y crecer profesionalmente. Dispuesto a compartir y a aprender de otros profesionales apasionados.
